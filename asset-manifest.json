@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ionic_qr_scanner/static/css/main.9022d187.css",
-    "main.js": "/ionic_qr_scanner/static/js/main.c3e72046.js",
+    "main.js": "/ionic_qr_scanner/static/js/main.4c41e813.js",
     "static/js/3630.b3410f25.chunk.js": "/ionic_qr_scanner/static/js/3630.b3410f25.chunk.js",
     "static/js/3107.b1574d00.chunk.js": "/ionic_qr_scanner/static/js/3107.b1574d00.chunk.js",
     "static/js/7397.d9e06a39.chunk.js": "/ionic_qr_scanner/static/js/7397.d9e06a39.chunk.js",
@@ -82,7 +82,7 @@
     "service-worker.js": "/ionic_qr_scanner/service-worker.js",
     "index.html": "/ionic_qr_scanner/index.html",
     "main.9022d187.css.map": "/ionic_qr_scanner/static/css/main.9022d187.css.map",
-    "main.c3e72046.js.map": "/ionic_qr_scanner/static/js/main.c3e72046.js.map",
+    "main.4c41e813.js.map": "/ionic_qr_scanner/static/js/main.4c41e813.js.map",
     "3630.b3410f25.chunk.js.map": "/ionic_qr_scanner/static/js/3630.b3410f25.chunk.js.map",
     "3107.b1574d00.chunk.js.map": "/ionic_qr_scanner/static/js/3107.b1574d00.chunk.js.map",
     "7397.d9e06a39.chunk.js.map": "/ionic_qr_scanner/static/js/7397.d9e06a39.chunk.js.map",
@@ -163,6 +163,6 @@
   },
   "entrypoints": [
     "static/css/main.9022d187.css",
-    "static/js/main.c3e72046.js"
+    "static/js/main.4c41e813.js"
   ]
 }
