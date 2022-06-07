@@ -1,6 +1,7 @@
 {
   "name": "photo-gallery-capacitor-react",
   "version": "2.0.0",
+  "homepage": "https://oephi.github.io/ionic_qr_scanner/",
   "private": true,
   "dependencies": {
     "@capacitor/android": "^3.0.0",
@@ -32,7 +33,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -51,6 +54,7 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^3.0.0",
+    "gh-pages": "^4.0.0",
     "react-scripts": "3.4.1"
   },
   "description": "Build a photo gallery app that runs on iOS, Android, and the web - with just one codebase."
