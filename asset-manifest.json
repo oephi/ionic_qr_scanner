@@ -13,8 +13,8 @@
     "static/js/5.8454a488.chunk.js": "/ionic_qr_scanner/static/js/5.8454a488.chunk.js",
     "static/js/5.8454a488.chunk.js.map": "/ionic_qr_scanner/static/js/5.8454a488.chunk.js.map",
     "main.css": "/ionic_qr_scanner/static/css/main.edac58fd.chunk.css",
-    "main.js": "/ionic_qr_scanner/static/js/main.01cf0c61.chunk.js",
-    "main.js.map": "/ionic_qr_scanner/static/js/main.01cf0c61.chunk.js.map",
+    "main.js": "/ionic_qr_scanner/static/js/main.ca679f56.chunk.js",
+    "main.js.map": "/ionic_qr_scanner/static/js/main.ca679f56.chunk.js.map",
     "runtime-main.js": "/ionic_qr_scanner/static/js/runtime-main.6fd7ad09.js",
     "runtime-main.js.map": "/ionic_qr_scanner/static/js/runtime-main.6fd7ad09.js.map",
     "stencil-ion-avatar_3-ios-entry-js.js": "/ionic_qr_scanner/static/js/stencil-ion-avatar_3-ios-entry-js.967b9800.chunk.js",
@@ -209,7 +209,7 @@
     "static/js/102.830449c2.chunk.js": "/ionic_qr_scanner/static/js/102.830449c2.chunk.js",
     "static/js/102.830449c2.chunk.js.map": "/ionic_qr_scanner/static/js/102.830449c2.chunk.js.map",
     "index.html": "/ionic_qr_scanner/index.html",
-    "precache-manifest.7de45889b388d5cbfdfb06e3bff3f3d0.js": "/ionic_qr_scanner/precache-manifest.7de45889b388d5cbfdfb06e3bff3f3d0.js",
+    "precache-manifest.dfc2f2f8098a7a2cbf55cc83406d4b48.js": "/ionic_qr_scanner/precache-manifest.dfc2f2f8098a7a2cbf55cc83406d4b48.js",
     "service-worker.js": "/ionic_qr_scanner/service-worker.js",
     "static/css/49.a72581b3.chunk.css.map": "/ionic_qr_scanner/static/css/49.a72581b3.chunk.css.map",
     "static/css/main.edac58fd.chunk.css.map": "/ionic_qr_scanner/static/css/main.edac58fd.chunk.css.map",
@@ -225,6 +225,6 @@
     "static/css/49.a72581b3.chunk.css",
     "static/js/49.8f5eb25a.chunk.js",
     "static/css/main.edac58fd.chunk.css",
-    "static/js/main.01cf0c61.chunk.js"
+    "static/js/main.ca679f56.chunk.js"
   ]
 }
