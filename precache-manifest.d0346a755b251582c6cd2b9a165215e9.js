@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f5185001b20cbb290a0859c9bafe5a7",
+    "revision": "a2e188eb5c2bc8f0fc9e1950435541c3",
     "url": "/ionic_qr_scanner/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ionic_qr_scanner/static/css/49.a72581b3.chunk.css"
   },
   {
-    "revision": "49da477c6dad8e7ccd45",
+    "revision": "ba2f4ff9aa754b104d10",
     "url": "/ionic_qr_scanner/static/css/main.edac58fd.chunk.css"
   },
   {
@@ -276,8 +276,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ionic_qr_scanner/static/js/99.9254746d.chunk.js"
   },
   {
-    "revision": "49da477c6dad8e7ccd45",
-    "url": "/ionic_qr_scanner/static/js/main.e824bdfc.chunk.js"
+    "revision": "ba2f4ff9aa754b104d10",
+    "url": "/ionic_qr_scanner/static/js/main.f5cdd823.chunk.js"
   },
   {
     "revision": "6fa26a83633b85b0072e",
